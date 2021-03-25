@@ -1,2 +1,6 @@
 #!/usr/bin/ruby
-puts "Hello world!"
+require 'readline'
+while input = Readline.readline("> ", true)
+  break if input == "exit"
+  puts(input)
+end

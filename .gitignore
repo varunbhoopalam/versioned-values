@@ -1,3 +1,5 @@
+/.values
+
 *.gem
 *.rbc
 /.config

@@ -4,7 +4,6 @@ require 'fileutils'
 require 'json'
 require 'date'
 
-
 module Init  
   private_class_method def self.cannot_initialize_directory
     if Dir.exists?(".values") == true

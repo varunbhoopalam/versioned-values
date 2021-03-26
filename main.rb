@@ -1,14 +1,15 @@
 #!/usr/bin/ruby
 $LOAD_PATH << '.'
 require 'init'
+require 'json'
 
 module Get
   
   def self.get_latest
     directories = Dir.children(".values")
     direc_hash = directories.map {|d| {directory: d, version: get_version_from_directory(d)} }
-    foo = direc_hash.max_by{ |h| h[:version]}[:directory]
-    pretty_print(File.read(".values/#{foo}/values.json"))
+    latest_version = direc_hash.max_by{ |h| h[:version]}
+    pretty_print(File.read(".values/#{latest_version[:directory]}/values.json"), latest_version[:version])
   end
 
   private_class_method def self.get_version_from_directory(directory_name)
@@ -16,8 +17,16 @@ module Get
     return directory_name_w_replace.to_f
   end
 
-  private_class_method def self.pretty_print(json_values)
-    puts(json_values)
+  private_class_method def self.parse(json_string)
+    return JSON.parse(json_string)["principles"]
+  end
+
+  private_class_method def self.pretty_print(json_string, version)
+    hashes = parse(json_string)
+    puts("\nValue Hierarchy Version: #{version}\n")
+    for hash in hashes
+      puts("#{hash["index"]}. Principle: #{hash["principle"]} | Value: #{hash["value"]}\n")
+    end
   end
 
 end

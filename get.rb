@@ -4,11 +4,19 @@ require 'json'
 
 module Get
   
-  def self.get_latest
+  def self.print_latest
     directories = Dir.children(".values")
     direc_hash = directories.map {|d| {directory: d, version: get_version_from_directory(d)} }
     latest_version = direc_hash.max_by{ |h| h[:version]}
     pretty_print(File.read(".values/#{latest_version[:directory]}/values.json"), latest_version[:version])
+  end
+
+  def self.get_latest
+    directories = Dir.children(".values")
+    version = 
+    direc_hash = directories.map {|d| {directory: d, version: get_version_from_directory(d)} }
+    latest_version = direc_hash.max_by{ |h| h[:version]}
+    return { principles: parse(File.read(".values/#{latest_version[:directory]}/values.json")), version: latest_version[:version]}
   end
 
   private_class_method def self.get_version_from_directory(directory_name)

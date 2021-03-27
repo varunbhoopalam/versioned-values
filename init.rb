@@ -115,3 +115,59 @@ module Init
     write_to_disk(ordered_principles)
   end
 end
+
+
+# What is ruby convention for file structure and how/where to store modules and classes?
+
+# One - Build with no previous version
+class VersionedValuesInit
+  # Init - (values)
+  # Write to disk
+end
+# Two - Build with previous version
+
+class VersionedValues
+  # Init - (values, release_notes, version)
+  # Write to disk
+end
+
+# Three - Read from disk
+class VersionedValueFromDisk
+  # Init - direc
+  # Get-Release-notes
+  # Get-Values
+end
+
+class Version
+  
+  ## 
+  # version_string is expected to be a string in this format 1-0
+  def initialize(version_string)
+    version_array = version_string.split("-")
+    @major = version_array.first.to_i
+    @minor = version_array.second.to_i
+  end 
+
+  def get_version
+    return "#{@major}-#{@minor}"
+
+  def next_minor_version
+    return Version.new("#{@major}-#{@minor+1}")
+
+  def next_major_version
+    return Version.new("#{@major+1}-#{@minor}")
+    
+end
+
+class Values
+
+  ##
+  # value_principle_hashes is expecting an array where the members are a hash like so
+  # {principle: string, value: string}
+  def initialize(value_principle_hashes)
+    
+  end 
+  # update (principle, value)
+  # get
+  # encode
+end

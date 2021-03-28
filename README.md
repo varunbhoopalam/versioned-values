@@ -1,10 +1,10 @@
 ## Versioned Values
 
-A transparency and decisions making tool to create and maintain **semantically versioned principles and values** to live a principle-centered life.
+A decisions making tool to create and maintain **semantically versioned principles and values** to live a principle-centered life win transparency and harmony.
   
 ## Motivation
 
-Living a principle centered life gives someone the tools to act pro-actively, to live by their values rather than react to life's circumstances. Principle-centered decisions give the necessary distance and perspective to avoid emotional decisions that may not be in line with what someone believes. 
+Living a principle centered life gives someone the tools to live by their values pro-actively rather than react to life's circumstances. Principle-centered decisions give the necessary distance and perspective to avoid emotional decisions that may not be in line with what someone believes. 
 
 Principles are in-arguable, non-changing and intrinsic. Principles are not actionable. Values are our interpretation of our principles. Values are actionable. Values are a decision making tool to live a principle-centered life. Someone's interpretation of their principles will change over time. Their decisions may put certain values in conflict. Because cognitive dissonance is a fact of life, a hierarchy of values is necessary. 
 

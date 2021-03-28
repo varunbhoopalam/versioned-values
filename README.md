@@ -32,12 +32,29 @@ Value Hierarchy Version: 1-1
 
 ## How To Use
 
-Run the application using the following command
+Run the application using the following command. If this is the first time you've run the command the application will initialize your values. Otherwise it will print the latest value.
 ```
-ruby values.rb
+ruby main.rb
+```
+Flags
+```
+-u : update your hierarchy
+-r : print release notes
+-l : print version list
+-v : print a specific version by providing a version after the flag in this format '1-0'
 ```
 
-describe-flags-here
+### Example CLI
+```
+#Print Version 1-0
+ruby main.rb -v 1-0
+
+#Print Release Notes
+ruby main.rb -r
+
+#Print latest version
+ruby main.rb
+```
 
 ## Tech
 

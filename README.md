@@ -4,7 +4,7 @@ A transparency and decisions making tool to create and maintain **semantically v
   
 ## Motivation
 
-Living a principle centered life gives someone the tools to act pro-actively, tp live by their values rather than react to life's circumstances. Principle-centered decisions give the necessary distance to avoid emotional decisions that may not be in line with what someone believes. Principles are non-changing intrinsic values that are not actionable. Values, our interpretation of our principles, are actionable. Values can be a great decision making tool to keep living a principle-centered life, living how you want to live. Interpretation of principles change over time with more life experience and data. This motivation leads us to our tool, **Versioned Values.** 
+Living a principle centered life gives someone the tools to act pro-actively, to live by their values rather than react to life's circumstances. Principle-centered decisions give the necessary distance to avoid emotional decisions that may not be in line with what someone believes. Principles are non-changing intrinsic values that are not actionable. Values, our interpretation of our principles, are actionable. Values can be a great decision making tool to keep living a principle-centered life, living how you want to live. Interpretation of principles change over time with more life experience and data. This motivation leads us to our tool, **Versioned Values.** 
 
 Versioned Values offers the following:
 - A decision making tool to make principle-centered decisions and live the way you want to

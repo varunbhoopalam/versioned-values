@@ -14,12 +14,14 @@ Principles are in-arguable, non-changing and intrinsic. Principles are not actio
 - Transparency and clarity over your own principles and values for yourself and others
 
 
-### Principle Value Hierarchy example
+### How to use Principle Value Hierarchy
 
 Value Hierarchy Version: 1-1
 1. Principle: Accountability | Value: Keeping my commitments, even in the face of adversity
 2. Principle: Empathy | Value: Actively listening and engaging others to connect and understand other perspectives.
 3. Principle: Initiative | Value: Focus not on finishing, but starting. Start as early as possible and start as often as possible
+
+I can come to my values with a situation and help it inform an action. Let's say I have commited to plans with my partner to go hiking this weekend. My work has informed me that there is an opportunity for advancement, but I'll have to present my work to a board on Sunday. I can navigate this situation and my corresponding action by understanding my values and viewing the situation through the lense of them
 
 ### Learn more
 

@@ -8,7 +8,7 @@ Living a principle centered life gives someone the tools to act pro-actively, to
 
 Principles are in-arguable, non-changing and intrinsic. Principles are not actionable. Values are our interpretation of our principles. Values are actionable. Values are a decision making tool to live a principle-centered life. Someone's interpretation of their principles will change over time. Their decisions may put certain values in conflict. Because cognitive dissonance is a fact of life, a hierarchy of values is necessary. 
 
-Versioned Values offers the following:
+**Versioned Values offers the following:**
 - A decision making tool to make principle-centered decisions and live the way you want to
 - The flexibility to update your principles as you learn and grow
 - Transparency and clarity over your own principles and values for yourself and others

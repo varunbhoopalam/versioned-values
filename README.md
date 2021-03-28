@@ -4,19 +4,21 @@ A transparency and decisions making tool to create and maintain **semantically v
   
 ## Motivation
 
-Living a principle centered life gives someone the tools to act pro-actively, to live by their values rather than react to life's circumstances. Principle-centered decisions give the necessary distance to avoid emotional decisions that may not be in line with what someone believes. Principles are non-changing intrinsic values that are not actionable. Values, our interpretation of our principles, are actionable. Values can be a great decision making tool to keep living a principle-centered life, living how you want to live. Interpretation of principles change over time with more life experience and data. This motivation leads us to our tool, **Versioned Values.** 
+Living a principle centered life gives someone the tools to act pro-actively, to live by their values rather than react to life's circumstances. Principle-centered decisions give the necessary distance and perspective to avoid emotional decisions that may not be in line with what someone believes. 
+
+Principles are in-arguable, non-changing and intrinsic. Principles are not actionable. Values are our interpretation of our principles. Values are actionable. Values are a decision making tool to live a principle-centered life. Someone's interpretation of their principles will change over time. Their decisions may put certain values in conflict. Because cognitive dissonance is a fact of life, a hierarchy of values is necessary. 
 
 Versioned Values offers the following:
 - A decision making tool to make principle-centered decisions and live the way you want to
-- Transparency and clarity over your own principles and values for yourself and others
 - The flexibility to update your principles as you learn and grow
+- Transparency and clarity over your own principles and values for yourself and others
 
 
 ### Principle Value Hierarchy example
 
 Value Hierarchy Version: 1-1
 1. Principle: Accountability | Value: Keeping my commitments, even in the face of adversity
-2. Principle: Empathy | Value: Actively listening and engaging others to connect and understand other perspectives
+2. Principle: Empathy | Value: Actively listening and engaging others to connect and understand other perspectives.
 3. Principle: Initiative | Value: Focus not on finishing, but starting. Start as early as possible and start as often as possible
 
 ### Learn more

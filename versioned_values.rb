@@ -21,4 +21,8 @@ class VersionedValue
   def get_version
     return Version.new(@version_string)
   end
+
+  def get_release_notes
+    return File.read(".values/#{@version_string}/release-notes.txt")
+  end
 end

@@ -33,7 +33,9 @@ Value Hierarchy Version: 1-1
 ## How To Use
 
 Run the application using the following command
+```
 ruby values.rb
+```
 
 describe-flags-here
 

@@ -4,7 +4,7 @@ A tool to create and maintain **semantically versioned principles and values** t
   
 ## Motivation
 
-insert motivation text
+Living a principle centered life gives someone the tools to act pro-actively, rather than re-actively, to life. to adhere to our principles and give distance to emotional decisions that may not be in line with our principles. Principle-centered decisions are made from a different perspective based on intrinsic values that don't change. What may change is our understanding of our principles, our values.
 
 ## Installation
 1. Install Ruby

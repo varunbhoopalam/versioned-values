@@ -1,6 +1,6 @@
 ## Versioned Values
 
-insert-one-line-about-project
+A tool to create and maintain semantically versioned principles and values to help you live a principle-centered life.
   
 ## Motivation
 
